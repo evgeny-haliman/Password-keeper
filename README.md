@@ -1,6 +1,9 @@
-#Password-keeper
-#####Program works with 11 version of java or higher
-######To run project in IntelliJ IDEA do these simple steps: 
+# Password-keeper
+
+##### Program works with 11 version of java or higher
+
+###### To run project in IntelliJ IDEA do these simple steps: 
+
 1. Create javaFX project in IDEA and delete a folder "sample" from "src" folder.
 2. Paste the "sample" from this repository instead of deleted.
 3. Download JavaFX SDK for your OS from [JavaFX website](https://gluonhq.com/products/javafx/), unzip and save.
