@@ -19,4 +19,4 @@ Also add "common-io" and "commons-codec" as jar-files .
 export PATH_TO_FX=/Downloads/openjfx-11.0.2_linux-x64_bin-sdk/javafx-sdk-11.0.2/lib
 ``` 
 7.Then run method main as usual. 
-
+8.The program can be modified. You can take part in improving the program.
